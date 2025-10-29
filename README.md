@@ -152,7 +152,7 @@ In a field dominated by billion-dollar observatories like the Square Kilometre A
 
 
 
-# 4 ociety of Amateur Radio Astronomers (SARA)
+# 4 Society of Amateur Radio Astronomers (SARA)
 - https://www.radio-astronomy.org/
 
 ### Overview of the Website
